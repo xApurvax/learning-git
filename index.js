@@ -1,3 +1,3 @@
 function counter(){
-	console.log(count);
+	console.log(count,"incremented by 1");
 }
